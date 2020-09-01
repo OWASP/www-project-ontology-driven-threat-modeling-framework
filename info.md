@@ -6,13 +6,4 @@
 ![Builders](assets/images/common/owasp_builders.svg)
 ![Tool Project](assets/images/common/owasp_tool_project.svg)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
-
-### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
 

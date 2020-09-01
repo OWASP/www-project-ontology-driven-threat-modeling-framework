@@ -11,7 +11,7 @@ pitch: OWASP Ontology-driven Threat Modelling (OdTM) framework is a set of means
 
 ## What is OdTM?
 
-OWASP ontology-driven threat modelling (OdTM) framework is a set of means for implementation of 
+OWASP Ontology-driven Threat Modelling (OdTM) framework is a set of means for implementation of 
 an ontological approach into automatic threat modelling of computer systems.
 
 

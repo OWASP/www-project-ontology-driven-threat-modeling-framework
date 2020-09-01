@@ -5,13 +5,13 @@ title: OWASP Ontology Driven Threat Modeling Framework
 tags: OdTM
 level: 1
 type: tool
-pitch: The ontology-driven threat modelling (OdTM) framework is a set of means for implementation of an ontological approach into automatic threat modelling of computer systems.
+pitch: OWASP Ontology-driven Threat Modelling (OdTM) framework is a set of means for implementation of an ontological approach into automatic threat modelling of computer systems.
 
 ---
 
 ## What is OdTM?
 
-The ontology-driven threat modelling (OdTM) framework is a set of means for implementation of 
+OWASP ontology-driven threat modelling (OdTM) framework is a set of means for implementation of 
 an ontological approach into automatic threat modelling of computer systems.
 
 
@@ -28,4 +28,21 @@ Our goals are:
 * to maintain a base threat model (ontology) that enables creation of domain-specific threat models;
 * to create different domain-specific threat models (for Web applications, Cloud computing, Internet of Things etc.);
 * to develop an ontology-driven threat rule engine, and a GUI editor of domain-specific threat models.
+
+### Roadmap
+
+**Vision**: Involve the ontology-driven approach into automatic threat modelling for collecting, 
+sharing and usage of the strict security-related knowledge through creation of domain-specific threat models and development of software tools.
+
+**Initial plan**:
+* Milestone 1: To implement a threat rule engine (OdTM Server) as a remote JSON API service.
+* Milestone 2: To implement software modules, providing integration of OdTM Server with GUI threat modelling tools.
+* Milestone 3: To develop various domain-specific threat models (the cloud computing domain as the first step).
+* Milestone 4: To implement a GUI editor of domain-specific threat models (OdTM Studio).
+
+**Technology**: Knowledge engineering, OWL (Web Ontology Language), Java, the OWL API library, the Jackson JSON library.
+
+### Related Projects
+* [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
+* [OWASP PyTM (Pythonic Threat Modeling)](https://owasp.org/www-project-pytm/)
 

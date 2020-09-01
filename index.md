@@ -2,19 +2,30 @@
 
 layout: col-sidebar
 title: OWASP Ontology Driven Threat Modeling Framework
-tags: example-tag
+tags: OdTM
 level: 1
 type: tool
-pitch: A very brief, one-line description of your project
+pitch: The ontology-driven threat modelling (OdTM) framework is a set of means for implementation of an ontological approach into automatic threat modelling of computer systems.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## What is OdTM?
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+The ontology-driven threat modelling (OdTM) framework is a set of means for implementation of 
+an ontological approach into automatic threat modelling of computer systems.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+### Description
 
-level: For projects, this is your 
+The OdTM framework enables formalization of security related knowledge (architectural components and associated threats and countermeasures)
+of different computer system types (architectural domains) in form of domain-specific threat models, or ontologies in the OWL (Web Ontology language) format.
+That gives a useful way to collect the knowledge by security professionals and share with software architects, developers and users.
+Also, the framework allows to describe a computer system in term of a domain-specific threat model with a DFD (data flow diagram), 
+and use automatic reasoning procedures to build a threat model (relevant threats and countermeasures) of the system. 
+Such a feature makes it easily automation of the threat modelling process.
+
+Our goals are: 
+* to maintain a base threat model (ontology) that enables creation of domain-specific threat models;
+* to create different domain-specific threat models (for Web applications, Cloud computing, Internet of Things etc.);
+* to develop an ontology-driven threat rule engine, and a GUI editor of domain-specific threat models.
+

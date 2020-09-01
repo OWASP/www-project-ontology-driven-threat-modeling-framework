@@ -1,4 +1,4 @@
-### Ontology Driven Threat Modeling Framework Information
+### Classification
 
 <img src="assets/images/common/owasp_level_incubator.svg" width="66">
 
@@ -7,3 +7,10 @@
 ![Tool Project](assets/images/common/owasp_tool_project.svg)
 
 
+### Sources
+
+* [On GitHub](https://github.com/nets4geeks/OdTM)
+
+### License
+
+MIT

@@ -52,3 +52,7 @@ third-party:
 * [OWL API](https://github.com/owlcs/owlapi)
 * [HermiT Reasoner](http://www.hermit-reasoner.com/)
 
+### Getting Involved
+
+Everyone is welcome and encouraged to participate in the OWASP OdTM project with contributions 
+(github pulls, issues, clons etc.), collaboration, feedback, and promotion.

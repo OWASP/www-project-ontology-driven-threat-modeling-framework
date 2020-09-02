@@ -1,4 +1,3 @@
-### Labels
 
 <img src="assets/images/common/owasp_level_incubator.svg" width="66">
 
@@ -6,15 +5,14 @@
 ![Builders](assets/images/common/owasp_builders.svg)
 ![Tool Project](assets/images/common/owasp_tool_project.svg)
 
-
 ### Code repository
 
 * [github project](https://github.com/OWASP/OdTM/)
 * [git clone url](https://github.com/OWASP/OdTM.git)
 
-### Base model
+### Base Model
 
-* current version: 0.50 (August 2020)
+* version 0.50 (Aug. 2020)
 * [description](https://github.com/OWASP/OdTM/blob/master/docs/BASEMODEL.md)
 * [changelog](https://github.com/OWASP/OdTM/blob/master/docs/BASEMODEL_changelog.md)
 
@@ -24,4 +22,4 @@
 
 ### License
 
-MIT
+* MIT

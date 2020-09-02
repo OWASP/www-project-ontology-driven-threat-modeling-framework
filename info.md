@@ -10,9 +10,9 @@
 * [github project](https://github.com/OWASP/OdTM/)
 * [git clone url](https://github.com/OWASP/OdTM.git)
 
-### Base Model
+### Base Threat Model
 
-* ver. 0.50 (Aug. 2020)
+* version 0.50 (Aug. 2020)
 * [OWL file](https://github.com/OWASP/OdTM/blob/master/OdTMBaseThreatModel.owl)
 * [description](https://github.com/OWASP/OdTM/blob/master/docs/BASEMODEL.md)
 * [changelog](https://github.com/OWASP/OdTM/blob/master/docs/BASEMODEL_changelog.md)

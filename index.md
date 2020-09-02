@@ -43,6 +43,12 @@ sharing and usage of the strict security-related knowledge through creation of d
 **Technology**: Knowledge engineering, OWL (Web Ontology Language), Java, the OWL API library, the Jackson JSON library.
 
 ### Related Projects
+
+from OWASP:
 * [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
 * [OWASP PyTM (Pythonic Threat Modeling)](https://owasp.org/www-project-pytm/)
+
+third-party:
+* [OWL API](https://github.com/owlcs/owlapi)
+* [HermiT Reasoner](http://www.hermit-reasoner.com/)
 

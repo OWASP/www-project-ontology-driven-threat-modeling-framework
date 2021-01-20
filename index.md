@@ -46,9 +46,11 @@ sharing and usage of the strict security-related knowledge through creation of d
 
 from OWASP:
 * [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
+* [OWASP Threat Model Cookbook](https://owasp.org/www-project-threat-model-cookbook/)
 * [OWASP PyTM (Pythonic Threat Modeling)](https://owasp.org/www-project-pytm/)
 
 third-party:
+* [ACCTP catalog](https://nets4geeks.github.io/acctp/)
 * [OWL API](https://github.com/owlcs/owlapi)
 * [HermiT Reasoner](http://www.hermit-reasoner.com/)
 

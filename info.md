@@ -7,8 +7,7 @@
 
 ### Code repository
 
-* [github project](https://github.com/OWASP/OdTM/)
-* [git clone url](https://github.com/OWASP/OdTM.git)
+* [on github](https://github.com/OWASP/OdTM/)
 
 ### Cloud threat model (ACCTP)
 
@@ -28,6 +27,10 @@
 ### OdTM Server
 
 * [description](https://github.com/OWASP/OdTM/tree/master/applications/OdTMServer/README.md)
+
+### Community
+
+* [slack channel](https://owasp.slack.com/archives/C01MUFTB0HG)
 
 ### License
 

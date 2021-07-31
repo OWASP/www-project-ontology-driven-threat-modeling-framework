@@ -36,8 +36,8 @@ sharing and usage of the strict security-related knowledge through creation of d
 
 **Initial plan**:
 * Milestone 1: To implement a threat rule engine (OdTM Server) as a remote JSON API service.
-* Milestone 2: To implement software modules, providing integration of OdTM Server with GUI threat modelling tools.
-* Milestone 3: To develop various domain-specific threat models (the cloud computing domain as the first step).
+* Milestone 2: To develop various domain-specific threat models (the cloud computing domain as the first step).
+* Milestone 3: To implement software modules, providing integration of OdTM Server with GUI threat modelling tools.
 * Milestone 4: To implement a GUI editor of domain-specific threat models (OdTM Studio).
 
 **Technology**: Knowledge engineering, OWL (Web Ontology Language), Java, the OWL API library, the Jackson JSON library.

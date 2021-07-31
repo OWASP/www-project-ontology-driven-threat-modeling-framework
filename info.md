@@ -9,10 +9,13 @@
 
 * [github](https://github.com/OWASP/OdTM/)
 
+### Documentation
+
+* [guide](https://github.com/OWASP/OdTM/blob/master/guide/README.md)
+
 ### Cloud threat model (ACCTP)
 
 * version 0.20 (Apr. 2021)
-* [guide](https://github.com/OWASP/OdTM/blob/master/guide/README.md)
 * [description](https://github.com/OWASP/OdTM/blob/master/docs/ODTMACCTP.md)
 * [OWL file](https://github.com/OWASP/OdTM/blob/master/OdTMACCTP.owl)
 
@@ -21,10 +24,6 @@
 * version 0.55 (Feb. 2021)
 * [description](https://github.com/OWASP/OdTM/blob/master/docs/BASEMODEL.md)
 * [OWL file](https://github.com/OWASP/OdTM/blob/master/OdTMBaseThreatModel.owl)
-
-### OdTM Server
-
-* [description](https://github.com/OWASP/OdTM/tree/master/applications/OdTMServer/README.md)
 
 ### Community
 

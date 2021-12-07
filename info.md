@@ -19,9 +19,14 @@
 * [description](https://github.com/OWASP/OdTM/blob/master/docs/ODTMACCTP.md)
 * [OWL file](https://github.com/OWASP/OdTM/blob/master/OdTMACCTP.owl)
 
+### Integrated model
+ 
+* ATT&CK, CAPEC & CWE
+* [description](https://github.com/OWASP/OdTM/blob/master/docs/IM.md) 
+
 ### Base Threat Model
 
-* version 0.55 (Feb. 2021)
+* version 0.60 (Nov. 2021)
 * [description](https://github.com/OWASP/OdTM/blob/master/docs/BASEMODEL.md)
 * [OWL file](https://github.com/OWASP/OdTM/blob/master/OdTMBaseThreatModel.owl)
 

@@ -50,6 +50,7 @@ from OWASP:
 * [OWASP PyTM (Pythonic Threat Modeling)](https://owasp.org/www-project-pytm/)
 
 third-party:
+* [A set of semantic data flow diagrams](https://github.com/nets4geeks/DockerComposeDataset)
 * [ACCTP catalog](https://nets4geeks.github.io/acctp/)
 * [OWL API](https://github.com/owlcs/owlapi)
 * [HermiT Reasoner](http://www.hermit-reasoner.com/)

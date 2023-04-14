@@ -15,7 +15,7 @@
 
 ### Cloud threat model (ACCTP)
 
-* version 0.50 (July 2021)
+* version 0.60 (November 2021)
 * [description](https://github.com/OWASP/OdTM/blob/master/docs/ODTMACCTP.md)
 * [OWL file](https://github.com/OWASP/OdTM/blob/master/OdTMACCTP.owl)
 

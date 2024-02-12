@@ -54,6 +54,7 @@ third-party:
 * [ACCTP catalog](https://nets4geeks.github.io/acctp/)
 * [OWL API](https://github.com/owlcs/owlapi)
 * [HermiT Reasoner](http://www.hermit-reasoner.com/)
+* [TaaC-AI](https://github.com/yevh/TaaC-AI)
 
 
 ### Getting Involved

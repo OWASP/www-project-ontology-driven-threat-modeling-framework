@@ -1,0 +1,26 @@
+audience:
+  - builder
+  - defender
+leaders:
+  - name: Andrei Brazhuk
+    email: andrew.brazhuk@gmail.com
+    github: nets4geeks
+level: 2
+license:
+  - MIT
+name: OWASP Ontology Driven Threat Modeling Framework
+pitch: OWASP Ontology-driven Threat Modelling (OdTM) framework is a set of means for implementation of an ontological approach into automatic threat modelling
+  of computer systems.
+repositories:
+  - name: www-project-ontology-driven-threat-modeling-framework
+    url: https://github.com/OWASP/www-project-ontology-driven-threat-modeling-framework
+    description: OWASP Foundation Web Repository
+  - name: OdTM
+    url: https://github.com/OWASP/OdTM
+    description: OWASP Ontology-driven Threat Modelling framework
+tags:
+  - OdTM
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-ontology-driven-threat-modeling-framework
